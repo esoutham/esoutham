@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @esoutham
 - 👀 I’m interested in Embedded Software
 - 🌱 I’m currently learning Go lang
-- 💞️ I’m looking to collaborate with Marshall Radio Telemetry
 - 📫 How to reach me ...
 
 <!---
